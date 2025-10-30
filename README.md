@@ -1,1 +1,1 @@
-**Este repositorio es de mi priemr practica en c#**
+**Este repositorio es de mi primer practica en c#**
